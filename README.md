@@ -6,3 +6,6 @@ PROJECT IDEA 1:
 
 PROJECT IDEA 2:
   An app where users can follow their favorite artists and will be notified when they are performing closeby, where to buy tickets, and when new album or merchandise will be released etc.s
+
+PROJECT IDEA 3:
+  An app that suggests book recommendations to people based on their reading interests. It will keep track of the books that you like and show you more within the same genres. Users can be redirected to order the books off other sites. There could even be a way to connect with other accounts to see what books they recommend.
